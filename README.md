@@ -1,5 +1,6 @@
 # HollowClock_auto
 HollowClock dirve by ESP32 C3  SNTP check time  
+<br>The CAD files and the original version can be found here: https://www.instructables.com/Hollow-Clock-4/
 <br>**  Code By street
     <br>**  MCU :ESP32_C3
     <br>**  合宙ESP32C3开发板  简约.
